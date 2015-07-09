@@ -1,2 +1,4 @@
 # LeRepository
-Welcome to Richmond Park.
+Hello GitHub. Welcome to Richmond Park.
+
+:smile:
